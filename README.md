@@ -3,9 +3,9 @@
 
 ## HOW TO INSTALL
 - ### step 1: Step up the virtual environment on your desktop. 
-1.1 Create a new folder on your desktop 
-1.2 open the command prompt and specify the path to the above folder
-1.3 follow the given steps to create and activate a virtual environment within the folder
+- 1.1 Create a new folder on your desktop 
+- 1.2 open the command prompt and specify the path to the above folder
+- 1.3 follow the given steps to create and activate a virtual environment within the folder
 ![fig.1](virtual.png)
 - ### step 2: installing the required libraries for the project
 2.1 inside the activated virtual environment write the following:- 
