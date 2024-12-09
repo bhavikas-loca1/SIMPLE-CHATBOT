@@ -1,0 +1,9 @@
+*.log
+include/
+lib/
+Scripts/
+pyvenv.cfg
+chatbot_model.h5
+classes.pkl
+words.pkl
+
