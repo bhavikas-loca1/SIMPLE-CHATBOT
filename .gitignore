@@ -3,6 +3,7 @@ include/
 lib/
 Scripts/
 pyvenv.cfg
+tempCodeRunnerFile.py
 chatbot_model.h5
 classes.pkl
 words.pkl
